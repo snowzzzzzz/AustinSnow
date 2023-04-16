@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="austin-support" />
+        <module name="austin-web" />
+        <module name="austin-handler" />
+        <module name="austin-data-house" />
+        <module name="austin-service-api" />
+        <module name="austin-stream" />
+        <module name="austin-cron" />
+        <module name="austin-service-api-impl" />
+        <module name="austin-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
